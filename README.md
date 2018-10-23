@@ -1,5 +1,5 @@
 # GUIA
-GUIA - Uma proposta de styleguide para ser usado em projetos.
+### GUIA - Uma proposta de styleguide para ser usado em projetos.
 
 <h3><a id="Branchs_0"></a>Branchs</h3>
 <ul>
